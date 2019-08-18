@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hurt
+  - Solid
+  - Bamboo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level
+  - Player
+  - CameraBoundary
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 12392101
+    locked: 0
+  - name: BackgroundProps
+    uniqueID: 82627977
+    locked: 0
+  - name: Player
+    uniqueID: 2354294963
+    locked: 0
+  - name: Foreground
+    uniqueID: 1448676759
+    locked: 0
+  - name: ForegroundProps
+    uniqueID: 3608359163
+    locked: 0
+  - name: PlayerDead
+    uniqueID: 215555575
+    locked: 0

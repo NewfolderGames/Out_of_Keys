@@ -1,0 +1,13 @@
+Sounds:
+	- BFXR - Generated
+		- hit.wav
+		- item.wav
+		- select.wav
+	- Dizzy Crow - https://opengameart.org/content/8-bit-sound-fx
+		- VictorySmall.wav
+
+Art:
+	- NewfolderGames
+		- All pixel arts.
+	- PineappleOnPizza - Included in Aseprite
+		- Rosy-42 color palette.
