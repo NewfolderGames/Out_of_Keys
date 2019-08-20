@@ -4,8 +4,6 @@
 
 Unity game made in 48 hours for GMTK Jam 2019. You can get .exe version or try browser version on [itch.io](https://newfoldergames.itch.io/out-of-keys).
 
-You can do whatever you want with the source code.
-
 ### Description
 
 Help Red Panda to reach the yummy bamboo tree!
