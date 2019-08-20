@@ -1,10 +1,10 @@
 # Out_of_Keys
 
+![Game Image](https://raw.githubusercontent.com/NewfolderGames/Out_of_Keys/master/Assets/Sprites/thumbnail.png)
+
 Unity game made in 48 hours for GMTK Jam 2019. You can get .exe version or try browser version on [itch.io](https://newfoldergames.itch.io/out-of-keys).
 
-I'm planning to remake this game!
-
-![Game Image](https://raw.githubusercontent.com/NewfolderGames/Out_of_Keys/master/Assets/Sprites/thumbnail.png)
+You can do whatever you want with the source code. Though, please don't copy everthing without changing anything and put it on somewhere else.
 
 ### Description
 
